@@ -3,7 +3,6 @@
 # کتاب شیدر
 *[Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/) and [Jen Lowe](http://jenlowe.net/) کاری از*
 
-This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
 این یک راهنمای گام به گام برای شیدر های ضعیف و پیچیده است.
 
 <div class="header">
