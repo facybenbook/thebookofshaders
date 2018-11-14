@@ -1,9 +1,10 @@
 <canvas id="custom" class="canvas" data-fragment-url="src/moon/moon.frag" data-textures="src/moon/moon.jpg" width="350px" height="350px"></canvas>
 
-# The Book of Shaders
-*by [Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/) and [Jen Lowe](http://jenlowe.net/)*
+# کتاب شیدر
+*[Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/) and [Jen Lowe](http://jenlowe.net/) کاری از*
 
 This is a gentle step-by-step guide through the abstract and complex universe of Fragment Shaders.
+این یک راهنمای گام به گام برای شیدر های ضعیف و پیچیده است.
 
 <div class="header">
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B5FSVSHGEATCG" style="float: right;"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt=""></a>
@@ -11,49 +12,49 @@ This is a gentle step-by-step guide through the abstract and complex universe of
 
 ## Contents
 
-* [About this book](00/)
+* [درباره ی کتاب](00/)
 
-* Getting started
-    * [What is a shader?](01/)
-    * [“Hello world!”](02/)
+* مقدمه
+    * [شیدر چیست](01/)
+    * [“سلام دنیا!”](02/)
     * [Uniforms](03/)
-	* [Running your shader](04/)
+	* [اجرا کردن شیدرتان](04/)
 
-* Algorithmic drawing
-    * [Shaping functions](05/)
-    * [Colors](06/)
-    * [Shapes](07/)
-    * [Matrices](08/)
-    * [Patterns](09/)
+* طراحی الگوریتمی
+    * [توابع شکل دادن](05/)
+    * [رنگ ها](06/)
+    * [شکل ها](07/)
+    * [ماتریس ها](08/)
+    * [الگو ها](09/)
 
-* Generative designs
-    * [Random](10/)
-    * [Noise](11/)
-    * [Cellular noise](12/)
-    * [Fractional brownian motion](13/)
-    * Fractals
+* طرح های تولیدی
+    * [تصادفی](10/)
+    * [نویز](11/)
+    * [نویز های سلولی](12/)
+    * [حرکت جزئی براونی](13/)
+    * فراکتال ها
 
-* Image processing
-    * Textures
-    * Image operations
-    * Kernel convolutions
-    * Filters
-    * Others effects
+* پردازش تصویر
+    * بافت ها
+    * عملیات تصویر
+    * پیچیدگی هسته
+    * فیلترها
+    * افکت های دیگر
 
-* Simulation
-    * Pingpong
-    * Conway
-    * Ripples
-    * Water color
-    * Reaction diffusion
+* شبیه سازی
+    * پینگ پونگ
+    * کانوی
+    * امواج
+    * رنگ آب
+    * انتشار واکنش
 
-* 3D graphics
-    * Lights
-    * Normal-maps
-    * Bump-maps
+* گرافیک سه بعدی
+    * نور ها
+    * نرمال مپ
+    * بامپ مپ
     * Ray marching
-    * Environmental-maps (spherical and cube)
-    * Reflect and refract
+    * مپ های محیطی (کروی و مکعبی)
+    * بازتاب و شکست نور
 
 * [Appendix:](appendix/) Other ways to use this book
 	* [How can I navigate this book offline?](appendix/00/)
