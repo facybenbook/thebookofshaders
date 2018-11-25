@@ -47,6 +47,18 @@
     * رنگ آب
     * انتشار واکنش
 
+<p dir='rtl' align='right'>
+ <ul>
+  <li>گرافیک سه بعدی</li>
+  <li>نور ها</li>
+  <li>نرمال مپ</li>
+  <li>بامپ مپ</li>
+  <li>Ray marching</li>
+  <li> (مپ های محیطی (کروی و مکعبی </li>
+  <li>بازتاب و شکست نور</li>
+</ul> 
+</p>
+
 * گرافیک سه بعدی
     * نور ها
     * نرمال مپ
@@ -65,8 +77,6 @@
 * [Examples Gallery](examples/)
 
 * [Glossary](glossary/)
-
-## About the Authors
 
 
 <p dir='rtl' align='right'>  <b>درباره نویسندگان</b></p>
