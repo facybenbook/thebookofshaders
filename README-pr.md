@@ -47,17 +47,16 @@
     * رنگ آب
     * انتشار واکنش
 
-<p dir='rtl' align='right'>
+
  <ul>
-  <li>گرافیک سه بعدی</li>
-  <li>نور ها</li>
-  <li>نرمال مپ</li>
-  <li>بامپ مپ</li>
-  <li>Ray marching</li>
-  <li> (مپ های محیطی (کروی و مکعبی </li>
-  <li>بازتاب و شکست نور</li>
+  <p dir='rtl' align='right'> <li>گرافیک سه بعدی</li> </p>
+  <p dir='rtl' align='right'> <li>نور ها</li> </p>
+  <p dir='rtl' align='right'> <li>نرمال مپ</li> </p>
+  <p dir='rtl' align='right'> <li>بامپ مپ</li> </p>
+  <p dir='rtl' align='right'> <li>Ray marching</li> </p>
+  <p dir='rtl' align='right'> <li> (مپ های محیطی (کروی و مکعبی </li> </p>
+  <p dir='rtl' align='right'> <li>بازتاب و شکست نور</li> </p>
 </ul> 
-</p>
 
 * گرافیک سه بعدی
     * نور ها
