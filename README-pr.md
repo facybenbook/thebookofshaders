@@ -33,29 +33,34 @@
     * [حرکت جزئی براونی](13/)
     * فراکتال ها
 
-* پردازش تصویر
-    * بافت ها
-    * عملیات تصویر
-    * پیچیدگی هسته
-    * فیلترها
-    * افکت های دیگر
+<div dir="rtl"> &#9679; [تصادفی](10/)  </div>
+<div dir="rtl"> &emsp; &#9675; [نویز](11/)  </div>
+<div dir="rtl"> &emsp; &#9675; [نویز های سلولی](12/)  </div>
+<div dir="rtl"> &emsp; &#9675; [حرکت جزئی براونی](13/)  </div>
+<div dir="rtl"> &emsp; &#9675; فراکتال ها  </div>
 
-* شبیه سازی
-    * پینگ پونگ
-    * کانوی
-    * امواج
-    * رنگ آب
-    * انتشار واکنش
+<div dir="rtl"> &#9679; پردازش تصویر  </div>
+<div dir="rtl"> &emsp; &#9675; بافت ها  </div>
+<div dir="rtl"> &emsp; &#9675; عملیات تصویر  </div>
+<div dir="rtl"> &emsp; &#9675; پیچیدگی هسته  </div>
+<div dir="rtl"> &emsp; &#9675; فیلترها  </div>
+<div dir="rtl"> &emsp; &#9675;  افکت های دیگر </div>
 
-
+<div dir="rtl"> &#9679; شبیه سازی  </div>
+<div dir="rtl"> &emsp; &#9675; پینگ پونگ  </div>
+<div dir="rtl"> &emsp; &#9675; نرمال مپ  </div>
+<div dir="rtl"> &emsp; &#9675; کانوی  </div>
+<div dir="rtl"> &emsp; &#9675; امواج  </div>
+<div dir="rtl"> &emsp; &#9675;  رنگ آب </div>
+<div dir="rtl"> &emsp; &#9675; انتشار واکنش  </div>
 
 <div dir="rtl"> &#9679; گرافیک سه بعدی  </div>
-<div dir="rtl"> &#9675; نور ها  </div>
-<div dir="rtl"> &#9675; نرمال مپ  </div>
-<div dir="rtl"> &#9675; Bump Map  </div>
-<div dir="rtl"> &#9675; Ray marching  </div>
-<div dir="rtl"> &#9675;  مپ های محیطی (کروی و مکعبی)  </div>
-<div dir="rtl"> &#9675; بازتاب و شکست نور  </div>
+<div dir="rtl"> &emsp; &#9675; نور ها  </div>
+<div dir="rtl"> &emsp; &#9675; نرمال مپ  </div>
+<div dir="rtl"> &emsp; &#9675; Bump Map  </div>
+<div dir="rtl"> &emsp; &#9675; Ray marching  </div>
+<div dir="rtl"> &emsp; &#9675;  مپ های محیطی (کروی و مکعبی)  </div>
+<div dir="rtl"> &emsp; &#9675; بازتاب و شکست نور  </div>
 
 * گرافیک سه بعدی
     * نور ها
