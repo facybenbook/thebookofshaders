@@ -115,29 +115,32 @@ Patricio studied and practiced psychotherapy and expressive art therapy. He hold
 
 <div class="header"> <a href="http://jenlowe.net/" target="_blank">WebSite</a> - <a href="https://twitter.com/datatelling" target="_blank">Twitter</a> - <a href="https://github.com/datatelling" target="_blank">GitHub</a></div>
 
-## Acknowledgements
 
-Thanks [Scott Murray](http://alignedleft.com/) for the inspiration and advice.
+<div dir="rtl"> <b> سپاسگزاری </b> </div>   
 
-Thanks [Kenichi Yoneda (Kynd)](https://twitter.com/kyndinfo), [Nicolas Barradeau](https://twitter.com/nicoptere), [Karim Naaji](http://karim.naaji.fr/) for contributing with support, good ideas and code.
+<p dir='rtl' align='right'> با تشکر از اسکات موری برای الهام و مشاوره. </p><p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'> با تشکر از کنیچی یوندا و کریم ناجی برای پشتیبانی و ایده های خوب </p><p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'> با تشکر از کنیچی یوندا و ساواک برای ترجمه چینی </p><p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'> با تشکر از  تونگ لی و یی ژانگ برای ترجمه چینی </p><p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'> با تشکر از  جی هیون یو برای ترجمه کره ای </p><p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'> با تشکر از ناهول کاپرو برای ترجمه اسپانیایی </p><p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'> با تشکر از نیکولاس بارادها و کریم ناجی برای ترجمه فرانسوی </p><p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'> با تشکر از  آندریا رووچسالی برای ترجمه ایتالیایی </p><p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'> با تشکر از مایکل تیشر برای ترجمه آلمانی </p><p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'> با تشکر از سرگئی کارچوکی برای ترجمه روسی </p><p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'> با تشکر از همه کسانی که به این پروژه اعتقاد داشتند و  با کمک رفع  یا اهدای کمک کرده اند.  </p><p dir='rtl' align='right'>  </p>
+<p dir='rtl' align='right'>  </p>
 
-Thanks [Kenichi Yoneda (Kynd)](https://twitter.com/kyndinfo) and [Sawako](https://twitter.com/sawakohome) for the [Japanese translation (日本語訳)](?lan=jp)
 
-Thanks [Tong Li](https://www.facebook.com/tong.lee.9484) and [Yi Zhang](https://www.facebook.com/archer.zetta?pnref=story) for the [Chinese translation (中文版)](?lan=ch)
-
-Thanks [Jae Hyun Yoo](https://www.facebook.com/fkkcloud) for the Korean [translation (한국어)](?lan=kr)
-
-Thanks [Nahuel Coppero (Necsoft)](http://hinecsoft.com/) for the Spanish [translation (español)](?lan=es)
-
-Thanks [Nicolas Barradeau](https://twitter.com/nicoptere) and [Karim Naaji](http://karim.naaji.fr/) for the French [translation (français)](?lan=fr)
-
-Thanks [Andrea Rovescalli](https://www.earove.info) for the Italian [translation (italiano)](?lan=it)
-
-Thanks [Michael Tischer](http://www.mitinet.de) for the German [translation (deutsch)](?lan=de)
-
-Thanks [Sergey Karchevsky](https://www.facebook.com/sergey.karchevsky.3) for the Russian [translation (russian)](?lan=ru)
-
-Thanks to everyone who has believed in this project and [contributed with fixes](https://github.com/patriciogonzalezvivo/thebookofshaders/graphs/contributors) or donations.
 
 ## Get new chapters
 
