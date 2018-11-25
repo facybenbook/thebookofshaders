@@ -10,6 +10,7 @@
 
 <div dir="rtl"> .این یک راهنمای گام به گام برای شیدر های ضعیف و پیچیده است </div>
 
+<p></p>
 
 <div dir="rtl"> 
 <div class="header">
