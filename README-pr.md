@@ -33,11 +33,12 @@
     * [حرکت جزئی براونی](13/)
     * فراکتال ها
 
-<div dir="rtl"> &#9679; [تصادفی](10/)  </div>
-<div dir="rtl"> &emsp; &#9675; [نویز](11/)  </div>
-<div dir="rtl"> &emsp; &#9675; [نویز های سلولی](12/)  </div>
-<div dir="rtl"> &emsp; &#9675; [حرکت جزئی براونی](13/)  </div>
-<div dir="rtl"> &emsp; &#9675; فراکتال ها  </div>
+
+<div dir="rtl"> &#9679; <a href="10/">تصادفی</a>  </div>
+<div dir="rtl"> &#9675; <a href="10/">نویز</a>  </div>
+<div dir="rtl"> &#9675; <a href="10/">نویز های سلولی</a>  </div>
+<div dir="rtl"> &#9675; <a href="10/">حرکت جزئی براونی</a>  </div>
+<div dir="rtl"> &#9675; فراکتال ها  </div>
 
 <div dir="rtl"> &#9679; پردازش تصویر  </div>
 <div dir="rtl"> &emsp; &#9675; بافت ها  </div>
