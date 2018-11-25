@@ -10,8 +10,11 @@
 
 <div dir="rtl"> .این یک راهنمای گام به گام برای شیدر های ضعیف و پیچیده است </div>
 
+
+<div dir="rtl"> 
 <div class="header">
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B5FSVSHGEATCG" style="float: right;"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt=""></a>
+</div>
 </div>
 
 
