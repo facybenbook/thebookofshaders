@@ -68,8 +68,11 @@
 
 ## About the Authors
 
+
+<p dir='rtl' align='right'>  <b>درباره نویسندگان</b></p>
+
 <p dir='rtl' align='right'>
-درباره نویسندگانPatricio Gonzalez Vivo (1982، بوینس آیرس، آرژانتین) یک هنرمند و توسعه دهنده مستقر در نیویورک است. او فضاهای بینابینی بین آلی و سنتز، آنالوگ و دیجیتال، فرد و جمعی را بررسی می کند. در کار او از کد به عنوان یک زبان بیانگر با هدف توسعه بهتر با هم استفاده می شود.
+Patricio Gonzalez Vivo (1982، بوینس آیرس، آرژانتین) یک هنرمند و توسعه دهنده مستقر در نیویورک است. او فضاهای بینابینی بین آلی و سنتز، آنالوگ و دیجیتال، فرد و جمعی را بررسی می کند. در کار او از کد به عنوان یک زبان بیانگر با هدف توسعه بهتر با هم استفاده می شود.
 </p>
 
 Patricio studied and practiced psychotherapy and expressive art therapy. He holds an MFA in Design & Technology from Parsons The New School, where he now teaches. Currently he works as a Graphic Engineer at Mapzen making openSource mapping tools.
