@@ -48,7 +48,7 @@
     * انتشار واکنش
 
 
- <ul>
+
   <p dir='rtl' align='right'> <li>گرافیک سه بعدی</li> </p>
   <p dir='rtl' align='right'> <li>نور ها</li> </p>
   <p dir='rtl' align='right'> <li>نرمال مپ</li> </p>
@@ -56,7 +56,7 @@
   <p dir='rtl' align='right'> <li>Ray marching</li> </p>
   <p dir='rtl' align='right'> <li> (مپ های محیطی (کروی و مکعبی </li> </p>
   <p dir='rtl' align='right'> <li>بازتاب و شکست نور</li> </p>
-</ul> 
+
 
 * گرافیک سه بعدی
     * نور ها
