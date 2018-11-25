@@ -13,28 +13,42 @@
 
 * [درباره ی کتاب](00/)
 
+<div dir="rtl"> &#9679; <a href="00/">درباره ی کتاب</a>  </div>
+
+<p></p>    
+
 * مقدمه
     * [شیدر چیست](01/)
     * [“سلام دنیا!”](02/)
     * [Uniforms](03/)
 	* [اجرا کردن شیدرتان](04/)
+    
+<div dir="rtl"> &#9679; شیدر چیست </div>    
+<div dir="rtl"> &#9675; <a href="05/">“سلام دنیا!”</a>  </div>
+<div dir="rtl"> &#9675; <a href="06/">Uniforms</a>  </div>
+<div dir="rtl"> &#9675; <a href="07/">اجرا کردن شیدرتان</a>  </div>
 
-* طراحی الگوریتمی
-    * [توابع شکل دادن](05/)
-    * [رنگ ها](06/)
-    * [شکل ها](07/)
-    * [ماتریس ها](08/)
-    * [الگو ها](09/)
+
+<p></p>    
+
+
+<div dir="rtl"> &#9679; طراحی الگوریتمی </div>    
+<div dir="rtl"> &#9675; <a href="05/">توابع ایجاد شکل</a>  </div>
+<div dir="rtl"> &#9675; <a href="06/">رنگ ها</a>  </div>
+<div dir="rtl"> &#9675; <a href="07/">شکل ها</a>  </div>
+<div dir="rtl"> &#9675; <a href="08/">ماتریس ها</a>  </div>
+<div dir="rtl"> &#9675; <a href="09/">الگو ها</a>  </div>
+
+<p></p>
     
 
 <div dir="rtl"> &#9679; <a href="10/">طرح های تولیدی</a>  </div>
-<div dir="rtl"> &#9675; <a href="10/">تصادفی</a>  </div>
-<div dir="rtl"> &#9675; <a href="10/">نویز</a>  </div>
-<div dir="rtl"> &#9675; <a href="10/">نویز های سلولی</a>  </div>
-<div dir="rtl"> &#9675; <a href="10/">حرکت جزئی براونی</a>  </div>
+<div dir="rtl"> &#9675; <a href="11/">تصادفی</a>  </div>
+<div dir="rtl"> &#9675; <a href="12/">نویز</a>  </div>
+<div dir="rtl"> &#9675; <a href="13/">نویز های سلولی</a>  </div>
 <div dir="rtl"> &#9675; فراکتال ها  </div>
 
-
+<p></p>
 
 <div dir="rtl"> &#9679; پردازش تصویر  </div>
 <div dir="rtl"> &emsp; &#9675; بافت ها  </div>
@@ -42,6 +56,8 @@
 <div dir="rtl"> &emsp; &#9675; پیچیدگی هسته  </div>
 <div dir="rtl"> &emsp; &#9675; فیلترها  </div>
 <div dir="rtl"> &emsp; &#9675;  افکت های دیگر </div>
+
+<p></p>
 
 <div dir="rtl"> &#9679; شبیه سازی  </div>
 <div dir="rtl"> &emsp; &#9675; پینگ پونگ  </div>
@@ -51,6 +67,8 @@
 <div dir="rtl"> &emsp; &#9675;  رنگ آب </div>
 <div dir="rtl"> &emsp; &#9675; انتشار واکنش  </div>
 
+<p></p>
+
 <div dir="rtl"> &#9679; گرافیک سه بعدی  </div>
 <div dir="rtl"> &emsp; &#9675; نور ها  </div>
 <div dir="rtl"> &emsp; &#9675; نرمال مپ  </div>
@@ -58,14 +76,6 @@
 <div dir="rtl"> &emsp; &#9675; Ray marching  </div>
 <div dir="rtl"> &emsp; &#9675;  مپ های محیطی (کروی و مکعبی)  </div>
 <div dir="rtl"> &emsp; &#9675; بازتاب و شکست نور  </div>
-
-* گرافیک سه بعدی
-    * نور ها
-    * نرمال مپ
-    * Bump Map
-    * Ray marching
-    * مپ های محیطی (کروی و مکعبی)
-    * بازتاب و شکست نور
 
 * [Appendix:](appendix/) Other ways to use this book
 	* [How can I navigate this book offline?](appendix/00/)
