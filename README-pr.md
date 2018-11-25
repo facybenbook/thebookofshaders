@@ -19,29 +19,29 @@
 
     
 <div dir="rtl"> &#9679; شیدر چیست </div>    
-<div dir="rtl"> &#9675; <a href="05/">“سلام دنیا!”</a>  </div>
-<div dir="rtl"> &#9675; <a href="06/">Uniforms</a>  </div>
-<div dir="rtl"> &#9675; <a href="07/">اجرا کردن شیدرتان</a>  </div>
+<div dir="rtl"> &emsp; &#9675; <a href="05/">“سلام دنیا!”</a>  </div>
+<div dir="rtl"> &emsp; &#9675; <a href="06/">Uniforms</a>  </div>
+<div dir="rtl"> &emsp; &#9675; <a href="07/">اجرا کردن شیدرتان</a>  </div>
 
 
 <p></p>    
 
 
 <div dir="rtl"> &#9679; طراحی الگوریتمی </div>    
-<div dir="rtl"> &#9675; <a href="05/">توابع ایجاد شکل</a>  </div>
-<div dir="rtl"> &#9675; <a href="06/">رنگ ها</a>  </div>
-<div dir="rtl"> &#9675; <a href="07/">شکل ها</a>  </div>
-<div dir="rtl"> &#9675; <a href="08/">ماتریس ها</a>  </div>
-<div dir="rtl"> &#9675; <a href="09/">الگو ها</a>  </div>
+<div dir="rtl"> &emsp; &#9675; <a href="05/">توابع ایجاد شکل</a>  </div>
+<div dir="rtl"> &emsp; &#9675; <a href="06/">رنگ ها</a>  </div>
+<div dir="rtl"> &emsp; &#9675; <a href="07/">شکل ها</a>  </div>
+<div dir="rtl"> &emsp; &#9675; <a href="08/">ماتریس ها</a>  </div>
+<div dir="rtl"> &emsp; &#9675; <a href="09/">الگو ها</a>  </div>
 
 <p></p>
     
 
-<div dir="rtl"> &#9679; <a href="10/">طرح های تولیدی</a>  </div>
-<div dir="rtl"> &#9675; <a href="11/">تصادفی</a>  </div>
-<div dir="rtl"> &#9675; <a href="12/">نویز</a>  </div>
-<div dir="rtl"> &#9675; <a href="13/">نویز های سلولی</a>  </div>
-<div dir="rtl"> &#9675; فراکتال ها  </div>
+<div dir="rtl"> &#9675; <a href="10/">طرح های تولیدی</a>  </div>
+<div dir="rtl"> &emsp; &#9675; <a href="11/">تصادفی</a>  </div>
+<div dir="rtl"> &emsp; &#9675; <a href="12/">نویز</a>  </div>
+<div dir="rtl"> &emsp; &#9675; <a href="13/">نویز های سلولی</a>  </div>
+<div dir="rtl"> &emsp; &#9675; فراکتال ها  </div>
 
 <p></p>
 
