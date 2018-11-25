@@ -1,15 +1,26 @@
 <canvas id="custom" class="canvas" data-fragment-url="src/moon/moon.frag" data-textures="src/moon/moon.jpg" width="350px" height="350px"></canvas>
 
-# کتاب شیدر
-*[Patricio Gonzalez Vivo](http://patriciogonzalezvivo.com/) and [Jen Lowe](http://jenlowe.net/) کاری از*
+<div dir="rtl"> <b> کتاب شیدر </b> </div>  
+ 
 
-این یک راهنمای گام به گام برای شیدر های ضعیف و پیچیده است.
+<div dir="rtl"> &#9679; کاری از <a href="http://patriciogonzalezvivo.com/"> Patricio Gonzalez Vivo و <a href="http://jenlowe.net/"> Jen Lowe </a>  </div>
+ 
+    
+    
+
+<div dir="rtl"> .این یک راهنمای گام به گام برای شیدر های ضعیف و پیچیده است </div>
 
 <div class="header">
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=B5FSVSHGEATCG" style="float: right;"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_SM.gif" alt=""></a>
 </div>
 
-## Contents
+
+<p></p>    
+
+<div dir="rtl"> <b> فهرست </b> </div>  
+
+
+<p></p>    
 
 * [درباره ی کتاب](00/)
 
@@ -37,7 +48,7 @@
 <p></p>
     
 
-<div dir="rtl"> &#9675; <a href="10/">طرح های تولیدی</a>  </div>
+<div dir="rtl"> &#9679; طرح های تولیدی </div>
 <div dir="rtl"> &emsp; &#9675; <a href="11/">تصادفی</a>  </div>
 <div dir="rtl"> &emsp; &#9675; <a href="12/">نویز</a>  </div>
 <div dir="rtl"> &emsp; &#9675; <a href="13/">نویز های سلولی</a>  </div>
