@@ -47,10 +47,20 @@
     * رنگ آب
     * انتشار واکنش
 
+
+
+<div dir="rtl"> &#9679; گرافیک سه بعدی  </div>
+<div dir="rtl"> &#9675; نور ها  </div>
+<div dir="rtl"> &#9675; نرمال مپ  </div>
+<div dir="rtl"> &#9675; Bump Map  </div>
+<div dir="rtl"> &#9675; Ray marching  </div>
+<div dir="rtl"> &#9675;  مپ های محیطی (کروی و مکعبی)  </div>
+<div dir="rtl"> &#9675; بازتاب و شکست نور  </div>
+
 * گرافیک سه بعدی
     * نور ها
     * نرمال مپ
-    * بامپ مپ
+    * Bump Map
     * Ray marching
     * مپ های محیطی (کروی و مکعبی)
     * بازتاب و شکست نور
@@ -74,17 +84,7 @@ Patricio Gonzalez Vivo (1982، بوینس آیرس، آرژانتین) یک هن
 </p>
 
 
-<p dir='rtl' align='right'>
-<ul> 
-   <li>گرافیک سه بعدی</li> 
-  <li>نور ها</li>
-  <li>نرمال مپ</li>
-  <li>بامپ مپ</li>
-  <li>Ray marching</li>
-  <li> (مپ های محیطی (کروی و مکعبی </li>
-  <li>بازتاب و شکست نور</li>
-</ul> 
-</p>
+
 
 
 Patricio studied and practiced psychotherapy and expressive art therapy. He holds an MFA in Design & Technology from Parsons The New School, where he now teaches. Currently he works as a Graphic Engineer at Mapzen making openSource mapping tools.
