@@ -31,10 +31,10 @@
 <p></p>    
 
     
-<div dir="rtl"> &#9679; شیدر چیست </div>    
-<div dir="rtl"> &emsp; &#9675; <a href="05/">“سلام دنیا!”</a>  </div>
-<div dir="rtl"> &emsp; &#9675; <a href="06/">Uniforms</a>  </div>
-<div dir="rtl"> &emsp; &#9675; <a href="07/">اجرا کردن شیدرتان</a>  </div>
+<div dir="rtl"> &#9679; شیدر چیست  <a href="01/"> </div>    
+<div dir="rtl"> &emsp; &#9675; <a href="02/">“سلام دنیا!”</a>  </div>
+<div dir="rtl"> &emsp; &#9675; <a href="03/">Uniforms</a>  </div>
+<div dir="rtl"> &emsp; &#9675; <a href="04/">اجرا کردن شیدرتان</a>  </div>
 
 
 <p></p>    
